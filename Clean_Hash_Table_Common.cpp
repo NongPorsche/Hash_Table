@@ -143,6 +143,7 @@ int main() {
                 return 0;
             default:
                 printf("Invalid option. Please try again.\n");
+                break;
         }
     }
     return 0;
